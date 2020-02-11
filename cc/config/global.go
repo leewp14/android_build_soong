@@ -123,6 +123,7 @@ var (
 	WarningAllowedProjects = []string{
 		"device/",
 		"vendor/",
+		"external/busybox",
 	}
 
 	// Directories with warnings from Android.mk files.
