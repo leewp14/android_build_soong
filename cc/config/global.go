@@ -124,6 +124,7 @@ var (
 		"device/",
 		"vendor/",
 		"external/busybox",
+		"packages/apps/FMRadio",
 	}
 
 	// Directories with warnings from Android.mk files.
